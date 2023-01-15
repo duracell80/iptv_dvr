@@ -5,8 +5,12 @@ Depends on:
 - ffmepg
 - at
 
-Uses cron?
-- No
+FAQ
+- Listings EPG? No (see channels.txt for simplicity)
+- Crontab? No
+- Timers delete after expiring? Yes
+- Delete timers by id? Yes
+- Copies stream without transcoding? Yes
 
 ## Install on Debian based systems
 `$ install.sh`
