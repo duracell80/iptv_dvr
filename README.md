@@ -17,8 +17,9 @@ Keeping it simple means setting channels to record manually and for a spefic amo
 Channels are associated with IPTV URL's in channels.txt with the delimiter ">"
 
 ### Channels.txt example:
-ch101>https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
+```ch101>https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
 ch102>https://accuweatherx-lg.amagi.tv/playlist.m3u8
+```
 
 ## Set Timer
 `$ ./setrec.sh ch101 3600 202312251600`
@@ -29,5 +30,6 @@ ch102>https://accuweatherx-lg.amagi.tv/playlist.m3u8
 `$ ./timers.sh`
 
 ## Delete Timer
-`$ ./delete.sh <jobnumber>`
-`$ ./delete.sh 1`
+```$ ./delete.sh <jobnumber>
+$ ./delete.sh 1
+```
