@@ -5,6 +5,9 @@ Depends on:
 - ffmepg
 - at
 
+Uses cron?
+- No
+
 ## Install on Debian based systems
 `$ install.sh`
 
