@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 # Example ./setrec.sh ch101 10 202301151610
 CWD=$(pwd)

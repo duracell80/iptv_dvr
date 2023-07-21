@@ -1,3 +1,5 @@
 ch100>https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elvis-lgus/playlist.m3u8
 ch101>https://accuweatherx-lg.amagi.tv/playlist.m3u8
 ch102>https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
+ch0170>http://192.168.2.221:5004/auto/v17
+ch0171>http://192.168.2.221:5004/auto/v17.1
